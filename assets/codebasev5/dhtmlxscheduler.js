@@ -3219,7 +3219,7 @@ To use dhtmlxScheduler in non-GPL projects (and get Pro version of the product),
                 (x.className = b + " " + this.templates.month_date_class(i, o)),
                 x.setAttribute("data-cell-date", g.templates.format_date(i));
                 //todo custom
-              var y = "dhx_month_body",
+              var y = "dhx_month_body pb-2",
                 w = "dhx_month_head";
               if (
                 (0 === p &&
