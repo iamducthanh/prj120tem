@@ -2368,6 +2368,7 @@ div.icon_delete {
   border-right: 1px solid #8d8d8d;
   border-bottom: 1px solid #8d8d8d;
   background-color: #000;
+  padding-bottom: 30px;
 }
 .dhx_after .dhx_month_body,
 .dhx_before .dhx_month_body {

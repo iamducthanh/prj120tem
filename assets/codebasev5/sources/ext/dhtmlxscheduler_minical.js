@@ -375,7 +375,7 @@ scheduler.form_blocks.calendar_time = {
 
 		var full_day = scheduler.config.full_day;
 
-		return "<div style='height:30px;padding-top:0; font-size:inherit;' class='dhx_section_time dhx_lightbox_minical'>" + html + "<span style='font-weight:normal; font-size:10pt;'> &nbsp;&ndash;&nbsp; </span>" + html + "</div>";
+		return "<div style='height:30px;padding-top:0; font-size:inherit;' class='dhx_section_time thanhh1 dhx_lightbox_minical'>" + html + "<span style='font-weight:normal; font-size:10pt;'> &nbsp;&ndash;&nbsp; </span>" + html + "</div>";
 	},
 	set_value: function(node, value, ev, config) {
 
